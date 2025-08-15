@@ -14,7 +14,7 @@ The **FundMe Project** is a decentralized application built with [Foundry](https
 ---
 
 ## 🔹 Tech Stack
-- **Language:** Solidity ^0.8.19
+- **Language:** Solidity 0.8.30
 - **Framework:** [Foundry](https://book.getfoundry.sh/)
 - **Oracle:** [Chainlink Price Feeds](https://docs.chain.link/)
 
